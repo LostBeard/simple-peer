@@ -658,6 +658,8 @@ constructor. See the API docs above.
 - [WebDrop.Space](https://WebDrop.Space) - Share files and messages across devices. Cross-platform, no installation alternative to AirDrop, Xender. [Source Code](https://github.com/subins2000/WebDrop)
 - [Speakrandom](https://speakrandom.com) - Voice-chat social network using simple-peer to create audio conferences!
 - [Deskreen](https://deskreen.com) - A desktop app that helps you to turn any device into a secondary screen for your computer. It uses simple-peer for sharing entire computer screen to any device with a web browser.
+- [SpawnDev.BlazorJS.SimplePeer](https://github.com/LostBeard/SpawnDev.BlazorJS.SimplePeer) - SpawnDev.BlazorJS.SimplePeer brings the amazing simple-peer library to Blazor WebAssembly.
+
 
 
 
